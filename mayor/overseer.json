@@ -1,0 +1,8 @@
+{
+  "type": "overseer",
+  "version": 1,
+  "name": "Jerry Snitselaar",
+  "email": "jsnitsel@redhat.com",
+  "username": "jsnitsel",
+  "source": "git-config"
+}
